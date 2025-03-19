@@ -57,7 +57,7 @@ You can download and install it from https://code.visualstudio.com/. It will be 
    - Global
    - Workspace
    - Workspace Folder
-  Press "F1", type "ESP-IDF", find "ESP-IDF: Configure ESP-IDF extension" and select it. You can also select "View -> Command Palette" instead of pressing "F1".
+Press "F1", type "ESP-IDF", find "ESP-IDF: Configure ESP-IDF extension" and select it. You can also select "View -> Command Palette" instead of pressing "F1".
 3.2 The ESP-IDF extension installation screen appears and asks you to choose between "EXPRESS" and "ADVANCED" mode (for initial installation).
 3.3 Select "EXPRESS" to proceed with the installation.
 The user folder is set as the default value. Click "Install" to proceed with the installation.(It takes some time.)

@@ -28,8 +28,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 esp32s3-eye
 This is the code directory where I worked to make the sdcard/usb-otg function in visual studio code.
 I compiled these things in idf 5.1.0 version.
@@ -53,7 +51,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Seting Development Environment
+Setting Development Environment
 
 1. Install vscode(https://code.visualstudio.com/)
    You can download and install it from https://code.visualstudio.com/. It will be installed by default without any settings.

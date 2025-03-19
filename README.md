@@ -64,15 +64,15 @@ This is an example of how to list things you need to use the software and how to
 
 Setting Development Environment
 
-1. Install vscode(https://code.visualstudio.com/)
+* Install vscode(https://code.visualstudio.com/)
 You can download and install it from https://code.visualstudio.com/. It will be installed by default without any settings.
   
-2. Install ESP-IDF
+* Install ESP-IDF
 2.1 After running vscode, click the extension icon on the right or execute the extension command with the shortcut key "ctrl+shift+x".
 2.2 Search for esp32s (espressif, esp-idf, esp32 etc) in the extension.
 2.3 Install Espressif IDF
 
-3. Setting ESP-IDF
+* Setting ESP-IDF
 3.1 Press "F1", type "ESP-IDF", find "ESP-IDF: Select where to save configuration settings" and select it. Select where to save the settings.
 
 You can choose one of the following three: (Select Global, see https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/MULTI_PROJECTS.md)
@@ -89,4 +89,4 @@ You can also select "View -> Command Palette" instead of pressing "F1".
 
 The user folder is set as the default value as shown below. Click "Install" to proceed with the installation.(It takes some time.)
 
-4. You can now start working by creating a new project or opening an imported project folder. 
+* You can now start working by creating a new project or opening an imported project folder. 

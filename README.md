@@ -53,20 +53,14 @@ You can download and install it from https://code.visualstudio.com/. It will be 
 
 3. Setting ESP-IDF
 3.1 Press "F1", type "ESP-IDF", find "ESP-IDF: Select where to save configuration settings" and select it. Select where to save the settings.
-
-You can choose one of the following three: (Select Global, see https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/MULTI_PROJECTS.md)
-
-- Global
-- Workspace
-- Workspace Folder
-
-Press "F1", type "ESP-IDF", find "ESP-IDF: Configure ESP-IDF extension" and select it.
-You can also select "View -> Command Palette" instead of pressing "F1".
-
+   You can choose one of the following three: (Select Global, see https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/MULTI_PROJECTS.md)
+   - Global
+   - Workspace
+   - Workspace Folder
+   Press "F1", type "ESP-IDF", find "ESP-IDF: Configure ESP-IDF extension" and select it. You can also select "View -> Command Palette" instead of pressing "F1".
 3.2 The ESP-IDF extension installation screen appears and asks you to choose between "EXPRESS" and "ADVANCED" mode (for initial installation).
 3.3 Select "EXPRESS" to proceed with the installation.
-
-The user folder is set as the default value as shown below. Click "Install" to proceed with the installation.(It takes some time.)
+The user folder is set as the default value. Click "Install" to proceed with the installation.(It takes some time.)
 
 4. You can now start working by creating a new project or opening an imported project folder.
   

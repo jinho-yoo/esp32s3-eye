@@ -51,6 +51,17 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
+This is an example of how to list things you need to use the software and how to install them.
+* to be determined
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* to be determined
+  
+
+### Installation
+
 Setting Development Environment
 
 1. Install vscode(https://code.visualstudio.com/)
@@ -78,14 +89,4 @@ You can also select "View -> Command Palette" instead of pressing "F1".
 
 The user folder is set as the default value as shown below. Click "Install" to proceed with the installation.(It takes some time.)
 
-4. You can now start working by creating a new project or opening an imported project folder.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* to be determined
-  
-
-### Installation
-
-_Below is an example of how you can 
+4. You can now start working by creating a new project or opening an imported project folder. 

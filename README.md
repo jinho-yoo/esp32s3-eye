@@ -68,12 +68,12 @@ Setting Development Environment
 You can download and install it from https://code.visualstudio.com/. It will be installed by default without any settings.
   
 2. Install ESP-IDF
-[1] After running vscode, click the extension icon on the right or execute the extension command with the shortcut key "ctrl+shift+x".
-[2] Search for esp32s (espressif, esp-idf, esp32 etc) in the extension.
-[3] Install Espressif IDF
+2.1 After running vscode, click the extension icon on the right or execute the extension command with the shortcut key "ctrl+shift+x".
+2.2 Search for esp32s (espressif, esp-idf, esp32 etc) in the extension.
+2.3 Install Espressif IDF
 
 3. Setting ESP-IDF
-[1] Press "F1", type "ESP-IDF", find "ESP-IDF: Select where to save configuration settings" and select it. Select where to save the settings.
+3.1 Press "F1", type "ESP-IDF", find "ESP-IDF: Select where to save configuration settings" and select it. Select where to save the settings.
 
 You can choose one of the following three: (Select Global, see https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/MULTI_PROJECTS.md)
 
@@ -84,8 +84,8 @@ You can choose one of the following three: (Select Global, see https://github.co
 Press "F1", type "ESP-IDF", find "ESP-IDF: Configure ESP-IDF extension" and select it.
 You can also select "View -> Command Palette" instead of pressing "F1".
 
-[2] The ESP-IDF extension installation screen appears and asks you to choose between "EXPRESS" and "ADVANCED" mode (for initial installation).
-[3] Select "EXPRESS" to proceed with the installation.
+3.2 The ESP-IDF extension installation screen appears and asks you to choose between "EXPRESS" and "ADVANCED" mode (for initial installation).
+3.3 Select "EXPRESS" to proceed with the installation.
 
 The user folder is set as the default value as shown below. Click "Install" to proceed with the installation.(It takes some time.)
 
